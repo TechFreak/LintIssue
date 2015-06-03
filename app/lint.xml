@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="OnClick" severity="warning" />
+    <issue id="InvalidPackage" severity="warning" />
+    <issue id="StringFormatInvalid" severity="warning" />
+    <issue id="AppCompatResource" severity="warning" />
+</lint>
